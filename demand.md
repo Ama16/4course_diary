@@ -1,5 +1,17 @@
 Задача: обзор методов предсказания редких рядов (бОльшая часть значений ряда - нули). Пример: транзакции пользователя в рублях в час.
 
+Статьи:
+* https://www.sciencedirect.com/science/article/pii/S1877050920303951
+* https://jsdajournal.springeropen.com/articles/10.1186/s40488-021-00121-4
+* https://medium.com/analytics-vidhya/santander-customer-transaction-prediction-an-end-to-end-machine-learning-project-2cb763172f8a
+* https://www.ijcai.org/proceedings/2020/0603.pdf
+* https://digscholarship.unco.edu/dissertations/464/
+* https://www.lancaster.ac.uk/pg/waller/pdfs/Intermittent_Demand_Forecasting.pdf
+* https://www.sciencedirect.com/science/article/abs/pii/S0925527313000273
+* https://smartgrid.ucla.edu/pubs/IEEE_SSnties.pdf
+* https://www.inovex.de/de/blog/deep-learning-time-series/
+* https://www.nuffield.ox.ac.uk/economics/papers/2017/CensorAus5d_Submit.pdf
+
 | Подход      | Идея |
 | ----------- | ----------- |
 | [kNN, Lazy Learning](https://smartgrid.ucla.edu/pubs/IEEE_SSnties.pdf)      | kNN на лагах рядов; Lazy Learning - модификация kNN, когда количество соседей выбирается автоматически в процессе для каждого ряда      |
